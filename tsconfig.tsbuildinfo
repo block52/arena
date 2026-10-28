@@ -1,1 +1,0 @@
-{"root":["./src/app.tsx","./src/chain.test.ts","./src/chain.ts","./src/config.ts","./src/format.test.ts","./src/format.ts","./src/main.tsx","./src/usepoll.ts","./src/vite-env.d.ts","./src/views/lobby.tsx","./src/views/watchtable.tsx"],"version":"5.6.3"}
